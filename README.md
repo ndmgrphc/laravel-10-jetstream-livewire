@@ -18,8 +18,6 @@ Stack:
 ## TODO
 
 - figure out where else VITE_PORT is used. https://news.ycombinator.com/item?id=32085349
-- publish livewire config
-- add seeders to get you started w jetstream teams
 - hook up worker-local so you have a queue to play with
 - create an example job/worker you might co-locate on same hardware
 - maybe add some ci/cd and even k8s stuff as an example to scale out workers/nginx/edges
